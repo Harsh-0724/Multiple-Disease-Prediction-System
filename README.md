@@ -1,4 +1,5 @@
 Multiple Disease Prediction System
+
 A user-friendly web application built with Streamlit to predict the likelihood of multiple diseases based on user-input health data. This project leverages machine learning to provide early-stage predictions for educational and demonstrative purposes.
 
 About The Project
